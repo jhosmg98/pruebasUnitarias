@@ -790,19 +790,19 @@
       "comment": "",
       "command": "type",
       "target": "id=nombreRegistro",
-      "value": "Ariana"
+      "value": "Arnold"
     }, {
       "id": "e183f323-51cf-44f9-a36f-bdd8de2080c5",
       "comment": "",
       "command": "type",
       "target": "id=apellidoRegistro",
-      "value": "Correa"
+      "value": "Herrera"
     }, {
       "id": "b3e601c6-0711-476d-8ecd-b50f5bbe694e",
       "comment": "",
       "command": "type",
       "target": "id=emailRegistro",
-      "value": "ari_correa@icloud.com"
+      "value": "arnold@icloud.com"
     }, {
       "id": "d96a8643-5cf3-49dc-a56b-b9b3590ecbb3",
       "comment": "",
@@ -850,7 +850,7 @@
       "comment": "",
       "command": "assertText",
       "target": "id=userBoton",
-      "value": "Ariana"
+      "value": "Arnold"
     }]
   }, {
     "id": "7d0c5032-1f3b-473c-81dc-cad80243f4bf",
@@ -907,10 +907,10 @@
     "tests": ["59706389-624a-4321-8ee9-9dccae460322", "d8214c94-6e7c-4667-a0e7-a459625e5889", "39dab8a4-f3b3-46b8-969c-861fb63a0273", "2f8f13f3-f636-4a4f-a471-5f4c52888b4f"]
   }, {
     "id": "9342ddf1-28de-4441-b53a-50af175c0ece",
-    "name": "TestSuccessfulLog&Reg",
+    "name": "TestSuccessfulLog",
     "parallel": false,
     "timeout": 300,
-    "tests": ["2021b217-3d48-4bb4-ab9b-c1a2803b9ce1", "7d0c5032-1f3b-473c-81dc-cad80243f4bf"]
+    "tests": ["7d0c5032-1f3b-473c-81dc-cad80243f4bf"]
   }],
   "urls": ["https://interfaz-de-usuario.herokuapp.com/"],
   "plugins": [],
